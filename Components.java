@@ -65,7 +65,6 @@ class Components{
         f1.addWindowListener(new WindowAdapter(){
         public void windowClosing(WindowEvent we){
             System.exit(0);
-            //   f1.dispose();
         }
         });
 
